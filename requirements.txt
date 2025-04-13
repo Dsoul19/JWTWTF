@@ -1,0 +1,6 @@
+pyjwt
+pycryptodomex
+requests
+rich
+tk
+websocket-client
